@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bebo my berbop dil mera leleo heheh 
+=======
+My name is dhruv, i am in BCA in maharaja surajmal institute  
+>>>>>>> main
